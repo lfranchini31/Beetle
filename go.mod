@@ -5,7 +5,7 @@ go 1.14
 require (
 	github.com/drone/envsubst v1.0.2
 	github.com/evanphx/json-patch v4.2.0+incompatible // indirect
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.7.7
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/jinzhu/gorm v1.9.16
 	github.com/prometheus/client_golang v1.9.0
